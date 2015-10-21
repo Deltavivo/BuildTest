@@ -1,0 +1,116 @@
+!SESSION 2015-10-21 14:00:17.609 -----------------------------------------------
+eclipse.buildId=4.2.2.M20140918-1444
+java.fullversion=JRE 1.7.0 IBM J9 2.7 Windows 10 Home amd64-64 Compressed References 20150630_255653 (JIT enabled, AOT enabled)
+J9VM - R27_Java727_SR3_20150630_2236_B255653
+JIT  - tr.r13.java_20150623_94888.01
+GC   - R27_Java727_SR3_20150630_2236_B255653_CMPRSS
+J9CL - 20150630_255653
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide tools_auto -showlocation -product com.ibm.etools.msgbroker.tooling.ide
+Command-line arguments:  -data C:\Users\deltavivo\IBM\IIBT10\workspaces\BuildTest -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide tools_auto -showlocation -product com.ibm.etools.msgbroker.tooling.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2015-10-21 14:00:19.374
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY org.eclipse.osgi 2 1 2015-10-21 14:00:21.479
+!MESSAGE NLS unused message: PD_HELP_POPUP_RELATED_HELP_SECTION_TITLE in: com.ibm.etools.mft.flow.msgFlowStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-10-21 14:00:21.482
+!MESSAGE NLS unused message: PROPERTY_LEVEL_HELP_POPUP_OPEN_DYNAMIC_HELP_LINK_TEXT in: com.ibm.etools.mft.flow.msgFlowStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-10-21 14:00:21.482
+!MESSAGE NLS unused message: PD_HELP_POPUP_DECORATOR_HOVER_HELP in: com.ibm.etools.mft.flow.msgFlowStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-10-21 14:00:21.483
+!MESSAGE NLS unused message: PROPERTY_LEVEL_HELP_POPUP_MORE_INFO_LINK in: com.ibm.etools.mft.flow.msgFlowStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-10-21 14:00:21.483
+!MESSAGE NLS unused message: PROPERTY_LEVEL_HELP_POPUP_SECTION_HOVER_HELP in: com.ibm.etools.mft.flow.msgFlowStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-10-21 14:00:21.484
+!MESSAGE NLS unused message: WarningEditReferenceFileInRecordMode in: com.ibm.etools.mft.flow.msgFlowStrings
+
+!ENTRY org.eclipse.ui 2 2 2015-10-21 14:00:21.662
+!MESSAGE Invalid preference category path: com.ibm.importer.preferences (bundle: com.ibm.adapter.c, page: com.ibm.adapter.c.ui.preferencepage.CPreferencePage)
+
+!ENTRY org.eclipse.ui 2 2 2015-10-21 14:00:21.662
+!MESSAGE Invalid preference category path: com.ibm.debug.breakpoints.common.pref.tracepoint (bundle: com.ibm.debug.wsa, page: com.ibm.debug.wsa.WSATracepointPreferencePage)
+
+!ENTRY org.eclipse.ui 2 2 2015-10-21 14:00:21.663
+!MESSAGE Invalid preference category path: com.ibm.importer.preferences (bundle: com.ibm.etools.cobol.preference.ui, page: com.ibm.etools.cobol.preference.ui.preferencepage.CobolPreferencePage)
+
+!ENTRY org.eclipse.osgi 2 1 2015-10-21 14:00:22.158
+!MESSAGE NLS unused message: ErrorCreateTestNode in: com.ibm.etools.mft.broker.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-10-21 14:00:22.159
+!MESSAGE NLS missing message: overrideSavedTrustStorePasswordDialogTitle in: com.ibm.etools.mft.broker.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-10-21 14:00:22.160
+!MESSAGE NLS missing message: overrideSavedTrustStorePasswordDialogDescription in: com.ibm.etools.mft.broker.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-10-21 14:00:22.160
+!MESSAGE NLS missing message: expAPIDialog_apiId in: com.ibm.etools.mft.broker.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-10-21 14:00:22.160
+!MESSAGE NLS missing message: expAPIDialog_apiVer in: com.ibm.etools.mft.broker.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-10-21 14:00:22.161
+!MESSAGE NLS missing message: expAPIDialog_testConn in: com.ibm.etools.mft.broker.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-10-21 14:00:22.161
+!MESSAGE NLS missing message: expAPIDialog_newVer in: com.ibm.etools.mft.broker.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-10-21 14:00:22.161
+!MESSAGE NLS missing message: expAPIDialog_exportDesc in: com.ibm.etools.mft.broker.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-10-21 14:00:23.147
+!MESSAGE NLS missing message: ConnectPatternRepo_ErrorConnecting_Dialog_Title in: com.ibm.etools.mft.pattern.community.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-10-21 14:00:23.148
+!MESSAGE NLS missing message: ConnectPatternRepo_ErrorConnecting_Dialog_Msg in: com.ibm.etools.mft.pattern.community.messages
+
+!ENTRY com.ibm.mq.runtime 1 0 2015-10-21 14:00:23.311
+!MESSAGE 
+
+!ENTRY com.ibm.mq.runtime 1 0 2015-10-21 14:00:23.312
+!MESSAGE D:\IBM\IIB\10.0.0.2\tools>mqsifindmqpath
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-10-21 14:00:23.535
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\deltavivo'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.ibm.mq.runtime 1 0 2015-10-21 14:00:24.295
+!MESSAGE BIP8071I: Successful command completion. D:\IBM\WMQ
+
+!ENTRY com.ibm.mq.runtime 1 0 2015-10-21 14:00:24.296
+!MESSAGE MQ Install location found:D:/IBM/WMQ
+
+!ENTRY com.ibm.mq.runtime 1 0 2015-10-21 14:00:24.296
+!MESSAGE 
+
+!ENTRY org.eclipse.osgi 2 1 2015-10-21 14:03:17.924
+!MESSAGE NLS unused message: Properties_Description in: com.ibm.etools.mft.service.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-10-21 14:03:17.924
+!MESSAGE NLS missing message: GenerateBindingAction_label2 in: com.ibm.etools.mft.service.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-10-21 14:03:18.710
+!MESSAGE NLS unused message: DFDLXSDResourceBuilder_errorSchemaInAppImportSchemaInSharedLib in: com.ibm.etools.msg.builder.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-10-21 14:03:18.710
+!MESSAGE NLS unused message: DFDLXSDResourceBuilder_errorProjectReferenceIsMissing in: com.ibm.etools.msg.builder.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-10-21 14:03:18.784
+!MESSAGE NLS missing message: WSDL_GatewayNonGatewayString in: com.ibm.etools.mft.ibmnodes.plugin.ibmnodesresources
+
+!ENTRY org.eclipse.osgi 2 1 2015-10-21 14:03:18.784
+!MESSAGE NLS missing message: tooltipFTETransferMode in: com.ibm.etools.mft.ibmnodes.plugin.ibmnodesresources
+
+!ENTRY org.eclipse.osgi 2 1 2015-10-21 14:03:18.785
+!MESSAGE NLS missing message: CICS_GROUP_HEADER_Node_ConnectionDetails in: com.ibm.etools.mft.ibmnodes.plugin.ibmnodesresources
+
+!ENTRY org.eclipse.osgi 2 1 2015-10-21 14:03:18.785
+!MESSAGE NLS missing message: CICS_GROUP_HEADER_Broker_ConnectionDetails in: com.ibm.etools.mft.ibmnodes.plugin.ibmnodesresources
